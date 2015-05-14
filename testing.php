@@ -1,1 +1,3 @@
-<?php echo 'Testing the git hub' ?>
+<?php echo 'Testing the git hub';
+phpinfo();
+ ?>
